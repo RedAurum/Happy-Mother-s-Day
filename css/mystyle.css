@@ -14,7 +14,9 @@ body {
 
 .card {
 
-    background-image: url('/img/desktop.jpg');
+    background-image: url('/img/wallpaper_flowers.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
     width: 719px;
     height: 1600px;
     margin: auto;
